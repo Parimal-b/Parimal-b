@@ -11,6 +11,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Parimal-b/](https://github.com/Parimal-b/)
 
+- 🔭 Please visit my mobiles apps created :-
+ [LatestMoviesTVShowsApp](https://github.com/Parimal-b/TMDBClient) and
+ [Stopwatch](https://github.com/Parimal-b/StopWatch)
+
 - 💬 Ask me about **android, kotlin, doubts related to android technology.**
 
 - 📫 How to reach me **parimalborkar3005@gmail.com**
