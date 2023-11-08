@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parimal-b&label=Profile%20views&color=0e75b6&style=flat" alt="parimal-b" /> </p>
 
 
-- 🔭 I’m currently working on [NewsFeedApplication](https://github.com/Parimal-b/NewsFeedApplication)
+- 🔭 I just finished working on [NewsFeedApplication](https://github.com/Parimal-b/NewsFeedApplication)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Parimal-b/](https://github.com/Parimal-b/)
 
