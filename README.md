@@ -1,5 +1,5 @@
 ![logo](https://github.com/Parimal-b/Parimal-b/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Parimal Borkar</h1>
+<h1 align="center">Hi 👋, Welcome to my Profile </h1>
 <h3 align="center">A passionate mobile app developer.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
