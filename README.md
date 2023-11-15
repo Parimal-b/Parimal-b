@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, Welcome to my Profile </h1>
 <h3 align="center">A passionate mobile app developer.</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parimal-b&label=Profile%20views&color=0e75b6&style=flat" alt="parimal-b" /> </p>
 
