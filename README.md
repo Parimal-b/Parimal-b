@@ -9,7 +9,7 @@
 
 - 🔭 I just finished working on [NewsFeedApplication](https://github.com/Parimal-b/NewsFeedApplication)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Parimal-b/](https://github.com/Parimal-b/)
+- 👨‍💻 All of my developed apps are available at [My Apps](https://1drv.ms/f/s!AgvsbrR-mPDyhEsCkiHlsdT1UVa3?e=USZvbe)
 
 - 🔭 Please visit my mobiles apps created :-
  [LatestMoviesTVShowsApp](https://github.com/Parimal-b/TMDBClient) ,
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **parimalborkar3005@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://1drv.ms/b/s!AgvsbrR-mPDyhEerb3yqfTVBiwCK?e=bbsVAA)
+- 📄 Know about my experiences [My Resume](https://1drv.ms/b/s!AgvsbrR-mPDyhFCiK4z0gaXusRAZ?e=BCglzI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
