@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parimal-b&label=Profile%20views&color=0e75b6&style=flat" alt="parimal-b" /> </p>
 
-
+- 👨‍💻 Currently I am working on a Spring Boot application to create REST APIs for a blogging application.[Blogging Application](https://github.com/Parimal-b/blog-apis)
+  
 - 🔭 I just finished working on [NewsFeedApplication](https://github.com/Parimal-b/NewsFeedApplication)
 
 - 👨‍💻 All of my developed apps are available at [My Apps](https://1drv.ms/f/s!AgvsbrR-mPDyhEsCkiHlsdT1UVa3?e=USZvbe)
