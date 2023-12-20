@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **parimalborkar3005@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://1drv.ms/b/s!AgvsbrR-mPDyhFCiK4z0gaXusRAZ?e=BCglzI)
+- 📄 Know about my experiences [My Resume](https://1drv.ms/b/s!AgvsbrR-mPDyhURkWrWhSu1Rv_Q8?e=cL7lg2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
