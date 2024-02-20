@@ -8,7 +8,7 @@
 
 - 👨‍💻 Currently I am working on a Spring Boot application to create REST APIs for a blogging application.[Blogging Application](https://github.com/Parimal-b/blog-apis)
   
-- 🔭 I just finished working on [NewsFeedApplication](https://github.com/Parimal-b/NewsFeedApplication)
+- 🔭 I just finished working on [Unit Converter Application](https://github.com/Parimal-b/unit-converter-app)
 
 - 👨‍💻 All of my developed apps are available at [My Apps](https://1drv.ms/f/s!AgvsbrR-mPDyhEsCkiHlsdT1UVa3?e=USZvbe)
 - 👨‍💻 My academic Project [My Academic Project](https://github.com/Parimal-b/EatzyFoodDeliveryApp)
