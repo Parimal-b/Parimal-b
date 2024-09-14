@@ -7,8 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parimal-b&label=Profile%20views&color=0e75b6&style=flat" alt="parimal-b" /> </p>
 
 - 👨‍💻 Currently I am working on an Android Application- a clone of Instagram app for better understanding of System-design, UI/UX design and backend design [Instagram Clone Application](https://github.com/Parimal-b/InstagramCloneApp)
-  
-- 🔭 I just finished working on [Unit Converter Application](https://github.com/Parimal-b/unit-converter-app)
 
 - 👨‍💻 All of my developed apps are available at [My Apps](https://1drv.ms/f/s!AgvsbrR-mPDyhEsCkiHlsdT1UVa3?e=USZvbe)
 - 👨‍💻 My academic Project [My Academic Project](https://github.com/Parimal-b/EatzyFoodDeliveryApp)
